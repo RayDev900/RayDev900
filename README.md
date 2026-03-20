@@ -72,7 +72,6 @@ Currently developing my first serious full-stack project, applying modern develo
 
 <p align="center">
 <strong>What I'm working with</strong><br/><br/>
-
 Clean Architecture principles<br/>
 REST API design<br/>
 Relational database modeling with PostgreSQL<br/>
@@ -85,14 +84,24 @@ My goal is to evolve from academic projects to production-ready systems.
 </p>
 
 
-🔥 Lo que me diferencia  
+<h2 align="center">What Sets Me Apart</h2>
 
-📈 Constancia diaria en el aprendizaje
-🧠 Mentalidad de crecimiento a largo plazo
-⚡ Disciplina y enfoque
-💡 Interés en construir soluciones reales y escalables
-No solo estudio desarrollo, lo practico todos los días.
+<p align="center">
+📈 Consistent daily learning<br/>
+🧠 Long-term growth mindset<br/>
+⚡ Discipline and focus<br/>
+💡 Passion for building real and scalable solutions
+</p>
 
-🎯 Objetivos 2026
-Construir aplicaciones listas para producción
-Contribuir a proyectos open source
+<p align="center">
+I don't just study development — I practice it every day.
+</p>
+
+<br/>
+
+<h2 align="center">Goals 2026</h2>
+
+<p align="center">
+🎯 Build production-ready applications<br/>
+🌍 Contribute to open-source projects
+</p>
