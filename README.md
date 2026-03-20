@@ -63,48 +63,27 @@ Clean architecture & scalable systems mindset
 <img src="https://streak-stats.demolab.com?user=RayDev900&theme=tokyonight&hide_border=true"/>
 </p>
 
-🎯 Full Stack Developer
-📍 Estudiante de Desarrollo y Administración de Aplicaciones y Sistemas de Información en el Politécnico de Azua (IPA)
-🚀 Construyendo proyectos reales para ganar visibilidad y experiencia práctica
 
-💻 Stack Tecnológico
-🧠 Lenguajes
-Python
-JavaScript
-TypeScript (en aprendizaje)
+<h2 align="center">Current Focus</h2>
 
-🎨 Frontend
-React
-TailwindCSS
+<p align="center">
+Currently developing my first serious full-stack project, applying modern development practices and real-world architecture.
+</p>
 
-⚙️ Backend
-Django
-Express.js
+<p align="center">
+<strong>What I'm working with</strong><br/><br/>
 
-🗄️ Base de Datos
-PostgreSQL
+Clean Architecture principles<br/>
+REST API design<br/>
+Relational database modeling with PostgreSQL<br/>
+Modern patterns in React<br/>
+End-to-end deployment workflow
+</p>
 
-☁️ Deploy / DevOps
-Vercel
-Docker (en aprendizaje)
+<p align="center">
+My goal is to evolve from academic projects to production-ready systems.
+</p>
 
-📚 Actualmente Aprendiendo
-TypeScript avanzado
-Docker y contenedorización
-Next.js
-Inglés técnico
-
-🚧 En qué estoy trabajando
-
-Actualmente desarrollando mi primer proyecto full stack serio, aplicando:
-Principios de arquitectura limpia
-Diseño de APIs REST
-Modelado relacional con PostgreSQL
-Patrones modernos en React
-Flujo completo de despliegue
-Mi objetivo es evolucionar de proyectos académicos a sistemas listos para producción.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RayDev900&theme=tokyonight&hide_border=&short_numbers=)](https://git.io/streak-stats)
 
 🔥 Lo que me diferencia  
 
