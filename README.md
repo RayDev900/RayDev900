@@ -47,7 +47,7 @@ Patrones modernos en React
 Flujo completo de despliegue
 Mi objetivo es evolucionar de proyectos académicos a sistemas listos para producción.
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RayDev900&theme=tokyonight&hide_border=FALSO&short_numbers=verdadero" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RayDev900&theme=tokyonight&hide_border=&short_numbers=)](https://git.io/streak-stats)
 
 🔥 Lo que me diferencia
 
