@@ -3,7 +3,8 @@
 </p>
 
 <div align="center">
-# RayDev
+<h1>RayDev</h1><br>
+  <h2>I'm Raymel Antuna</h2>
 </div>
 
 <hr>
