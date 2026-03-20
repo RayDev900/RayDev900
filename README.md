@@ -22,6 +22,37 @@ API development & database design<br/>
 Clean architecture & scalable systems mindset
 </p>
 
+<h2 align="center">Technologies</h2>
+
+<p align="center">
+<strong>Core Technologies</strong><br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+</p>
+
+<p align="center">
+<strong>Frameworks & Libraries</strong><br/><br/>
+
+<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=092E20"/>
+
+</p>
+
+<p align="center">
+<strong>Database</strong><br/><br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+
+</p>
+
+
 🎯 Full Stack Developer
 📍 Estudiante de Desarrollo y Administración de Aplicaciones y Sistemas de Información en el Politécnico de Azua (IPA)
 🚀 Construyendo proyectos reales para ganar visibilidad y experiencia práctica
