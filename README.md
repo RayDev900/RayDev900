@@ -2,9 +2,13 @@
   <img src="https://raw.githubusercontent.com/RayDev900/RayDev900/refs/heads/main/banner-raydev.png" width="100%" />
 </p>
 
-<h1 aling="center">RayDev</h1>
+<p align="center">
+  <h1>RayDev</h1>
+  <h2>👋 Hola, soy Raymel Antuna</h2>
+</p>
 
-👋 Hola, soy Raymel Antuna
+<hr>
+
 
 🎯 Full Stack Developer
 📍 Estudiante de Desarrollo y Administración de Aplicaciones y Sistemas de Información en el Politécnico de Azua (IPA)
