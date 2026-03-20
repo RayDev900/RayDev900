@@ -2,10 +2,9 @@
   <img src="https://raw.githubusercontent.com/RayDev900/RayDev900/refs/heads/main/banner-raydev.png" width="100%" />
 </p>
 
-<p align="center">
-  <h1>RayDev</h1>
-  <h2>👋 Hola, soy Raymel Antuna</h2>
-</p>
+<div align="center">
+# RayDev
+</div>
 
 <hr>
 
