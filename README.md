@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RayDev900/RayDev900/refs/heads/main/Banner%20futurista%20de%20RayDev.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/RayDev900/RayDev900/refs/heads/main/banner-raydev.png" width="100%" />
 </p>
 
 # RayDev
