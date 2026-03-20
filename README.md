@@ -96,7 +96,7 @@ Mi objetivo es evolucionar de proyectos académicos a sistemas listos para produ
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RayDev900&theme=tokyonight&hide_border=&short_numbers=)](https://git.io/streak-stats)
 
-🔥 Lo que me diferencia
+🔥 Lo que me diferencia  
 
 📈 Constancia diaria en el aprendizaje
 🧠 Mentalidad de crecimiento a largo plazo
