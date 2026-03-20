@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/RayDev900/RayDev900/refs/heads/main/banner-raydev.png" width="100%" />
 </p>
 
-# RayDev
+<h1 aling="center">RayDev</h1>
 
 👋 Hola, soy Raymel Antuna
 
