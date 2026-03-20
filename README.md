@@ -8,6 +8,19 @@
 
 <hr>
 
+<h2 align="center">About me</h2>
+
+<p align="center">
+Hi, I'm Raymel Antuna — a Full-Stack Developer focused on backend development.  
+I enjoy building scalable, efficient systems and continuously improving my skills through real-world projects.
+</p>
+
+<p align="center">
+<strong>Full-Stack Developer (Backend Focused)</strong><br/>
+React / Express / PostgreSQL / Django<br/>
+API development & database design<br/>
+Clean architecture & scalable systems mindset
+</p>
 
 🎯 Full Stack Developer
 📍 Estudiante de Desarrollo y Administración de Aplicaciones y Sistemas de Información en el Politécnico de Azua (IPA)
