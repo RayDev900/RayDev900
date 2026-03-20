@@ -50,7 +50,17 @@ Clean architecture & scalable systems mindset
 <strong>Database</strong><br/><br/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+</p>
 
+<h2 align="center">Statistics</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RayDev900&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayDev900&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RayDev900&theme=tokyonight&hide_border=true"/>
 </p>
 
 🎯 Full Stack Developer
