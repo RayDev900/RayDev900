@@ -31,6 +31,7 @@ Clean architecture & scalable systems mindset
 <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
@@ -51,7 +52,6 @@ Clean architecture & scalable systems mindset
 <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=336791"/>
 
 </p>
-
 
 🎯 Full Stack Developer
 📍 Estudiante de Desarrollo y Administración de Aplicaciones y Sistemas de Información en el Politécnico de Azua (IPA)
